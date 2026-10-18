@@ -1,0 +1,9 @@
+Security name,Bloomberg ticker,Currency,Shares,Price (USD),Market value (USD),Actual weight (%),Price date
+SPDR S&P 500 ETF Trust,SPY US Equity,USD,33638,763.25,25674203.50,25.6742,2026-10-16
+Energy Select Sector SPDR Fund,XLE US Equity,USD,108525,68.24,7405746.00,7.4057,2026-10-16
+iShares Currency Hedged MSCI Emerging Markets ETF,HEEM US Equity,USD,405221,39.59,16042699.39,16.0427,2026-10-16
+iShares 0-5 Year TIPS Bond ETF,STIP US Equity,USD,265829,100.58,26737080.82,26.7371,2026-10-16
+iShares 3-7 Year Treasury Bond ETF,IEI US Equity,USD,152269,114.24,17395210.56,17.3952,2026-10-16
+SPDR Gold Shares,GLD US Equity,USD,17655,382.01,6744386.55,6.7444,2026-10-16
+"Cash (residual from rounding, earns 0)",,USD,,,673.18,0.0007,2026-10-16
+Total,,USD,,,100000000.00,100.0000,2026-10-16
