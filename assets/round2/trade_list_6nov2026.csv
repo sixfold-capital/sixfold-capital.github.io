@@ -1,0 +1,12 @@
+Trade date (close of 6 Nov 2026),Side,Security name,Identifier (Bloomberg),Quantity,Currency,Price (USD),Amount (USD)
+2026-11-06,Sell,SPDR S&P 500 ETF Trust,SPY US Equity,3312,USD,735.29,2435280.48
+2026-11-06,Sell,Energy Select Sector SPDR Fund,XLE US Equity,4142,USD,61.62,255230.04
+2026-11-06,Sell,iShares Currency Hedged MSCI Emerging Markets ETF,HEEM US Equity,36905,USD,37.83,1396116.15
+2026-11-06,Sell,iShares 0-5 Year TIPS Bond ETF,STIP US Equity,34790,USD,100.51,3496742.90
+2026-11-06,Sell,iShares 3-7 Year Treasury Bond ETF,IEI US Equity,21225,USD,115.29,2447030.25
+2026-11-06,Sell,SPDR Gold Shares,GLD US Equity,1930,USD,372.52,718963.60
+2026-11-06,Buy,Adobe Inc.,ADBE US Equity,14441,USD,239.30,3455731.30
+2026-11-06,Buy,FactSet Research Systems Inc.,FDS US Equity,13005,USD,327.89,4264209.45
+2026-11-06,Buy,"Workday, Inc.",WDAY US Equity,16404,USD,192.90,3164331.60
+,,Total sold,,,USD,,10749363.42
+,,Total bought,,,USD,,10884272.35
